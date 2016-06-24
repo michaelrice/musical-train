@@ -1,0 +1,19 @@
+{"Catalog": [
+    {
+        "regex": "/admin/instances.*",
+        "doc": "/admin/instances.html"
+    },
+    {
+        "regex": "/project/instances.*",
+        "doc": "/project/instances.html"
+    },
+    {
+        "regex": "/identity.*",
+        "doc": "/identity/index.html"
+    },
+    {
+        "regex": ".*",
+        "doc": "/default/default.html"
+    }
+  ]
+}
